@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493351546966">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493351744216">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="194243792" ref="index"/>
@@ -34,11 +34,11 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="whitetransparent-u1453.png" crc="389961211" ref="index"/>
-    <file name="whitetransparent-u14532.png" crc="111810277" ref="index"/>
-    <file name="whitetransparent-u14533.png" crc="230640515" ref="index"/>
-    <file name="whitetransparent-u14534.png" crc="3880753056" ref="index"/>
+    <file name="highreslogoclear-u1453.png" crc="4035118795" ref="index"/>
+    <file name="highreslogoclear-u14532.png" crc="4075093361" ref="index"/>
+    <file name="highreslogoclear-u14533.png" crc="200138369" ref="index"/>
+    <file name="highreslogoclear-u14534.png" crc="138552466" ref="index"/>
   </folder>
-  <file name="index.html" crc="4050772411" seo="true" mt="1493350839114" redirect="true"/>
+  <file name="index.html" crc="3941519167" seo="true" mt="1493351733962" redirect="true"/>
   <file name="about.html" crc="4190258524" seo="true" mt="1493351513282" redirect="true"/>
 </manifest>
