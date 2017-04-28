@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493351846665">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493352254554">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="267368535" ref="index"/>
-    <file name="nomq_index.css" crc="4110188360" ref="index"/>
+    <file name="index.css" crc="4268004414" ref="index"/>
+    <file name="nomq_index.css" crc="421713244" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="about.css" crc="4250987687" ref="about"/>
     <file name="nomq_about.css" crc="504988679" ref="about"/>
@@ -36,9 +36,9 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="highreslogoclear-u1453.png" crc="329856053" ref="index"/>
     <file name="highreslogoclear-u14532.png" crc="4075093361" ref="index"/>
-    <file name="highreslogoclear-u14533.png" crc="200138369" ref="index"/>
-    <file name="highreslogoclear-u14534.png" crc="138552466" ref="index"/>
+    <file name="highreslogoclear-u14533.png" crc="3867371884" ref="index"/>
+    <file name="highreslogoclear-u14534.png" crc="31131392" ref="index"/>
   </folder>
-  <file name="index.html" crc="152528893" seo="true" mt="1493351835046" redirect="true"/>
+  <file name="index.html" crc="51611346" seo="true" mt="1493352208496" redirect="true"/>
   <file name="about.html" crc="4190258524" seo="true" mt="1493351513282" redirect="true"/>
 </manifest>
