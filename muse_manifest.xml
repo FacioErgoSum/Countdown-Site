@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493342875913">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493343300927">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4183070273" ref="index"/>
+    <file name="master_a-master.css" crc="297643766" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4165683669" ref="index"/>
-    <file name="index.css" crc="126864433" ref="index"/>
-    <file name="nomq_index.css" crc="420181639" ref="index"/>
+    <file name="index.css" crc="3782118903" ref="index"/>
+    <file name="nomq_index.css" crc="3802071568" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,9 +20,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="whitetransparent-u190.png" crc="4057709076" ref="index"/>
+    <file name="whitetransparent-u190.png" crc="3941576219" ref="index"/>
   </folder>
-  <file name="index.html" crc="26942075" seo="true" mt="1493342852734" redirect="true"/>
+  <file name="index.html" crc="4087852233" seo="true" mt="1493343261528" redirect="true"/>
 </manifest>
