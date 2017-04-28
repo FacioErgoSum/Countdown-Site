@@ -30,9 +30,6 @@ $form = array(
 		'from' => '',
 		'to' => ''
 	),
-	'recaptcha2' => array(
-		'private_key' => '6LdFGh8UAAAAAGZKlwk3kbridS1NEvPOMvE8QYdO'
-	),
 	'fields' => array(
 		'custom_U524' => array(
 			'order' => 1,
@@ -59,16 +56,6 @@ $form = array(
 			'label' => 'Message',
 			'required' => false,
 			'errors' => array(
-			)
-		),
-		'g-recaptcha-response' => array(
-			'order' => 4,
-			'type' => 'recaptcha2',
-			'label' => 'Image Verification',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Image Verification\' is required.',
-				'format' => 'Incorrect reCAPTCHA 2.0 value.'
 			)
 		)
 	)
