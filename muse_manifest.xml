@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493351055966">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493351142696">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="194243792" ref="index"/>
     <file name="nomq_index.css" crc="3964755333" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="about.css" crc="3820588783" ref="about"/>
-    <file name="nomq_about.css" crc="3966579642" ref="about"/>
+    <file name="about.css" crc="67848381" ref="about"/>
+    <file name="nomq_about.css" crc="470591658" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -33,12 +33,12 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="whitetransparent-u1453.png" crc="389961211" ref="index"/>
     <file name="whitetransparent-u14532.png" crc="111810277" ref="index"/>
     <file name="whitetransparent-u14533.png" crc="230640515" ref="index"/>
     <file name="whitetransparent-u14534.png" crc="3880753056" ref="index"/>
   </folder>
   <file name="index.html" crc="4050772411" seo="true" mt="1493350839114" redirect="true"/>
-  <file name="about.html" crc="4022072302" seo="true" mt="1493351035744" redirect="true"/>
+  <file name="about.html" crc="3842411058" seo="true" mt="1493351129450" redirect="true"/>
 </manifest>
