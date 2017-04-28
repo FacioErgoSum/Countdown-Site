@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493350541791">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493351055966">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3844775855" ref="index"/>
-    <file name="nomq_index.css" crc="4026088332" ref="index"/>
+    <file name="index.css" crc="194243792" ref="index"/>
+    <file name="nomq_index.css" crc="3964755333" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="about.css" crc="446011585" ref="about"/>
-    <file name="nomq_about.css" crc="25942542" ref="about"/>
+    <file name="about.css" crc="3820588783" ref="about"/>
+    <file name="nomq_about.css" crc="3966579642" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -33,12 +33,12 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="whitetransparent-u1453.png" crc="404165370" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about"/>
+    <file name="whitetransparent-u1453.png" crc="389961211" ref="index"/>
     <file name="whitetransparent-u14532.png" crc="111810277" ref="index"/>
     <file name="whitetransparent-u14533.png" crc="230640515" ref="index"/>
     <file name="whitetransparent-u14534.png" crc="3880753056" ref="index"/>
   </folder>
-  <file name="index.html" crc="3848054899" seo="true" mt="1493350218760" redirect="true"/>
-  <file name="about.html" crc="388553201" seo="true" mt="1493350524055" redirect="true"/>
+  <file name="index.html" crc="4050772411" seo="true" mt="1493350839114" redirect="true"/>
+  <file name="about.html" crc="4022072302" seo="true" mt="1493351035744" redirect="true"/>
 </manifest>
