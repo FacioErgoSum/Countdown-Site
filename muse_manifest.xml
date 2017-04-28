@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493343300927">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="countdown.com" resolutions="1x" timestamp="1493343460116">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="297643766" ref="index"/>
@@ -23,7 +23,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="whitetransparent-u190.png" crc="3941576219" ref="index"/>
+    <file name="whiteclear-u190.png" crc="386894345" ref="index"/>
   </folder>
-  <file name="index.html" crc="4087852233" seo="true" mt="1493343261528" redirect="true"/>
+  <file name="index.html" crc="4171068486" seo="true" mt="1493343435442" redirect="true"/>
 </manifest>
